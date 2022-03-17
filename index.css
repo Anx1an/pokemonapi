@@ -1,0 +1,8 @@
+body {
+    Height:10rem;
+    Width:10rem;
+    background-color: purple;
+}
+body .a1,#id1 {
+    color: aqua;
+}
